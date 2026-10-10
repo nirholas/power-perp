@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it as below.
+title: "power-perp"
+abstract: "A pool with a weight, so a liquidity provider chooses how much of the move they want instead of always getting the square root of it."
+license: Apache-2.0
+repository-code: "https://github.com/nirholas/power-perp"
+url: "https://three.ws"
+authors:
+  - name: three.ws
+    website: "https://three.ws"
